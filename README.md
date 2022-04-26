@@ -1,5 +1,5 @@
 -Hi, I’m @lobotomizedpeach
--I’m currently learning C#
+-I’m currently learning C++
 
 <!---
 lobotomizedpeach/lobotomizedpeach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
